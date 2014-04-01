@@ -6,7 +6,7 @@ Are you looking for lightweight and powerful JS framework? Try no.js, the world'
 How to use no.js
 --------------
 
-It is easy as pie. Simply paste following line into your <head> section. And that's all you need to do to get no.js ready to use. 
+It is easy as pie. Simply paste the following line into your code. And that's all you need to do to get no.js ready to use. 
 
 ```html
 <script src="https://github.com/chachalaca/no.js/raw/master/no.js"></script>
